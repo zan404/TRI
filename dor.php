@@ -1,5 +1,4 @@
 <?php
-clear
 
 echo @color("nevy","\n╔════════════════•ೋೋ•════════════════╗\n");
 echo @color("red","          TEMBAK PAKET THREE\n");
