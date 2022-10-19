@@ -3,7 +3,7 @@
   <a href="https://t.me/zann404"><img src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   
 </p>
-<img src="https://github.com/zan404/TRI/blob/main/IMG_20221015_091408.jpg" width="100%" alt="screenshot">
+<img src="https://github.com/zan404/TRI/blob/main/door.jpg" width="100%" alt="screenshot">
 
 # TRI DOR
 Tembak PAKET MURAH TRI/THREE
