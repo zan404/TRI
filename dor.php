@@ -2,14 +2,8 @@
 
 echo @color("nevy","\n╔════════════════•ೋೋ•════════════════╗\n");
 echo @color("red","          TEMBAK PAKET THREE\n");
-echo @color("green","               L4 EROOR\n");
-echo @color("white","                  KMB");
 echo @color("yellow","\n  Jangan lupa isi pulsa dulu ya !!!!");
 echo @color("nevy","\n╚════════════════•ೋೋ•════════════════╝\n");
-echo @color('blue', "  CREDITS :");
-echo @color('white', " 🙏THANKS to ALL AUTHORS🙏\n");
-echo @color('green', "\t     ❤️GOD BLESS YOU❤️ \n");
-echo @color('nevy', "══════════════════════════════════════\n");
 echo @color('purple',"\n[⚡] NOMOR TRI\t\t: ");
 $nomor = trim(fgets(STDIN));
 $login = login($nomor);
